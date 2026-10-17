@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5295ea29c25ff6d78fa9fac9",
+  "owner": "kjcpyecst",
+  "repo": "page-cd466d6419293374bea1207e",
+  "title": "ABC",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd466d6419293374bea1207e",
+      "a": "ABC",
+      "b": "",
+      "entity": "ABC",
+      "brand": "ABC",
+      "separator": "",
+      "path": "index.html",
+      "hash": "84dd9b85ba83115c3757052890d9f941f92687bccb7f38e6eae1809250e224cc",
+      "content": {
+        "keyword1": "ABC",
+        "keyword2": "",
+        "primary_entity": "ABC",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "ABC 提供高效、稳定的现代网络传输与连接加速服务。查看我们的服务层级、规格说明与技术问答。",
+          "AI_DESCRIPTION": "ABC 提供高效、稳定的现代网络传输与连接加速服务。查看我们的服务层级、规格说明与技术问答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--accent-light: #fff3ed;--border-color: #cccccc;--card-bg: #fafafa}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;background-color: var(--bg-color);color: var(--text-color);line-height: 1.6}\na {color: inherit;text-decoration: none}\n.hero-band {background-color: var(--text-color);color: #ffffff;padding: 5rem 2rem;margin-bottom: 3rem}\n.hero-band h1 {font-size: 3.5rem;font-weight: 900;letter-spacing: -0.05em;margin-bottom: 1rem}\n.hero-band p {font-size: 1.25rem;max-width: 600px;color: #cccccc;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;font-weight: 700}\n.hero-links a {background-color: var(--accent-color);color: #ffffff;padding: 0.75rem 1.5rem;border-radius: 4px}\n.hero-links a.secondary {background-color: transparent;border: 1px solid #ffffff}\n.container {max-width: 1200px;margin: 0 auto;padding: 0 1.5rem}\nsection {margin-bottom: 5rem}\nh2 {font-size: 2rem;margin-bottom: 1.5rem;letter-spacing: -0.02em;border-bottom: 2px solid var(--text-color);padding-bottom: 0.5rem;display: inline-block}\n.intro-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.ticket-card {border: 2px dashed var(--border-color);background: var(--card-bg);padding: 2rem;position: relative}\n.ticket-card h3 {font-size: 1.25rem;margin-bottom: 1rem;font-weight: 700}\n.ticket-card p {color: #555555;font-size: 0.95rem}\n.plans-wrapper {overflow-x: auto}\ntable.plans-table {width: 100%;border-collapse: collapse;text-align: left;margin-top: 1rem}\ntable.plans-table th, table.plans-table td {border: 1px solid var(--border-color);padding: 1rem}\ntable.plans-table th {background-color: var(--accent-light);color: var(--text-color);font-weight: 700}\ntable.plans-table tr:nth-child(even) {background-color: var(--card-bg)}\n.highlight-cell {background-color: var(--accent-light);font-weight: bold;color: var(--accent-color)}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n  .hero-band h1 {font-size: 2.5rem}\n}\n.faq-item {border: 1px solid var(--border-color);padding: 1.5rem;background: var(--card-bg)}\n.faq-item dt {font-weight: 700;margin-bottom: 0.5rem;font-size: 1.1rem}\n.faq-item dd {color: #555555;font-size: 0.95rem}\nfooter {background-color: var(--text-color);color: #ffffff;text-align: center;padding: 3rem 1.5rem;margin-top: 5rem;font-size: 0.9rem}\n</style><div class=\"hero-band\">\n  <div class=\"container\">\n    <h1>ABC</h1>\n    <p>提供现代网络传输通道与效率加速服务，面向有高标准连接需求的团队与个人用户构建。保持极简、高效、稳定的传输体验。</p>\n    <div class=\"hero-links\">\n      <a href=\"#plans\">查看套餐</a>\n      <a href=\"#faq\" class=\"secondary\">常见问题</a>\n    </div>\n  </div>\n</div>\n\n<main class=\"container\">\n  \n  <section id=\"features\">\n    <h2>服务特性</h2>\n    <div class=\"intro-grid\">\n      <div class=\"ticket-card\">\n        <h3>01. 传输通道</h3>\n        <p>提供多线节点部署，支持按需调度，降低网络抖动，保障连接过程的连贯性与响应速度。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>02. 流量规格</h3>\n        <p>提供多种清晰的阶梯流量方案，额度透明，无隐藏限制，满足日常与高强度工作负载所需。</p>\n      </div>\n      <div class=\"ticket-card\">\n        <h3>03. 协议适配</h3>\n        <p>全面兼容主流客户端与现代传输协议，配置简便，即连即用，适配多端协同办公场景。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>服务套餐</h2>\n    <div class=\"plans-wrapper\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>服务层级</th>\n            <th>基础版</th>\n            <th>旗舰版 (推荐)</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>月度价格</strong></td>\n            <td>¥15 / 月</td>\n            <td class=\"highlight-cell\">¥35 / 月</td>\n            <td>¥85 / 月</td>\n          </tr>\n          <tr>\n            <td><strong>年度价格</strong></td>\n            <td>¥150 / 年</td>\n            <td class=\"highlight-cell\">¥350 / 年</td>\n            <td>¥850 / 年</td>\n          </tr>\n          <tr>\n            <td><strong>每月流量</strong></td>\n            <td>100GB 极速流量</td>\n            <td class=\"highlight-cell\">300GB 极速流量</td>\n            <td>1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td><strong>设备在线</strong></td>\n            <td>支持 3 台设备</td>\n            <td class=\"highlight-cell\">支持 5 台设备</td>\n            <td>支持 20 台设备</td>\n          </tr>\n          <tr>\n            <td><strong>核心权益</strong></td>\n            <td>普通线路节点池 / 基础流媒体解锁</td>\n            <td class=\"highlight-cell\">全节点原生流媒体 / IPLC 专线优化 / 7x24 优先工单</td>\n            <td>VIP 专属高带宽 / 企业定制路由 / 专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <dt>如何开始使用 ABC 的服务？</dt>\n        <dd>选择适合您的套餐并完成订购后，系统将自动开通账户。您可在用户面板获取订阅链接，导入至支持的客户端即可开始使用。</dd>\n      </div>\n      <div class=\"faq-item\">\n        <dt>套餐流量是否支持结转？</dt>\n        <dd>每月流量额度会在账单周期重置，未用完的流量不结转至下一个周期。建议根据实际使用体量选择对应规格。</dd>\n      </div>\n      <div class=\"faq-item\">\n        <dt>是否支持多台设备同时在线？</dt>\n        <dd>支持。不同套餐对应不同的在线设备上限（如基础版 3 台、旗舰版 5 台、团队版 20 台），超出限制的设备可能会影响连接稳定性。</dd>\n      </div>\n      <div class=\"faq-item\">\n        <dt>遇到连接异常应如何处理？</dt>\n        <dd>请首先检查客户端订阅是否为最新状态，或尝试切换至其他可用节点。如问题持续存在，旗舰版与团队版用户可提交优先工单获得技术支持。</dd>\n      </div>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <div class=\"container\">\n    <p>© ABC Network Services. 保留所有权利。</p>\n  </div>\n</footer>",
+          "hash": "c0a48b289c69a3397f0f6ffae505b5c0d722793d85441c7512ce391b71d16759",
+          "seo": {
+            "title": "ABC - 现代网络传输与加速服务",
+            "keywords": "ABC,网络传输,加速服务,专线网络,流量套餐",
+            "description": "ABC 提供高效、稳定的现代网络传输与连接加速服务。查看我们的服务层级、规格说明与技术问答。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "455",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "baoyue0597.cn",
+    "host": "p-da4de91b66.baoyue0597.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8eb34f0ad62c1d85c36e10cac572d353cce8e3b69f0230dea5b545fcb3144817",
+    "sitemap.xml": "77aa87d44ef4cd0b9506555d6d00022bbe4672976bd2fe3e879e68fdef135b6a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02a97d483a7c7707744df38d00c63da00211564c911171901c9b293e46a36157",
+    "robots.txt": "e47e00be50beee9656e552a7b467c9b178a75f6c964b9c16aa7a3967d9b2fb2d",
+    "c1e8d39d736819e236ade8f0f2d624ea.txt": "ff977dca70d4884de7977e87265f802a9c2929b61d2a282880192053b23690e0"
+  },
+  "revision": "eb22b464dae929453d79cc7dd29ac641330458c2540a49972d6e7244e8834b64"
+}
